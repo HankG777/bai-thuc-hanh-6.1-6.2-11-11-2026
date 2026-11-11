@@ -1,0 +1,9 @@
+G:\.net\bai6.2\obj\Debug\bai6.2.csproj.AssemblyReference.cache
+G:\.net\bai6.2\obj\Debug\bai6._2.Properties.Resources.resources
+G:\.net\bai6.2\obj\Debug\bai6.2.csproj.GenerateResource.cache
+G:\.net\bai6.2\obj\Debug\bai6.2.csproj.CoreCompileInputs.cache
+G:\.net\bai6.2\bin\Debug\bai6.2.exe.config
+G:\.net\bai6.2\bin\Debug\bai6.2.exe
+G:\.net\bai6.2\bin\Debug\bai6.2.pdb
+G:\.net\bai6.2\obj\Debug\bai6.2.exe
+G:\.net\bai6.2\obj\Debug\bai6.2.pdb
